@@ -2,11 +2,21 @@
   {
     "id":1,
     "first": "Kevin",
-    "last" : "Jefferson"
+    "last" : "Jefferson",
+    "age": "32",
+    "profileImage": "https://i1.sndcdn.com/avatars-000643742124-tdazh3-t500x500.jpg",
+    "coverImage": "https://i.pinimg.com/originals/cd/0d/8a/cd0d8a305149d5dd2ff564f23cc13de0.jpg",
+    "profession": "Electrical Engineer",
+    "hobby": "I Like to read how-to tutorials."
   },
   {
     "id":2,
     "name": "John",
-    "last" : "Patterson"
+    "last" : "Patterson",
+    "age": "35",
+    "profileImage": "https://images-na.ssl-images-amazon.com/images/I/51VxIATjkVL._AC_SL1280_.jpg",
+    "coverImage": "https://7mqdw495tt11373391slswo6-wpengine.netdna-ssl.com/wp-content/uploads/2019/12/capricorn-season-500x500.png",
+    "profession": "Software Engineer",
+    "hobby": "I Like to play tennis."
   }
 ]
