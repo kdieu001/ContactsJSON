@@ -11,7 +11,7 @@
   },
   {
     "id":2,
-    "name": "John",
+    "first": "John",
     "last" : "Patterson",
     "age": "35",
     "profileImage": "https://images-na.ssl-images-amazon.com/images/I/51VxIATjkVL._AC_SL1280_.jpg",
